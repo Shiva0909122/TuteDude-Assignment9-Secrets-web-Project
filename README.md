@@ -1,5 +1,3 @@
-# TuteDude Assignment 9 - Secrets Web Project
-
 This is the **Secrets Web Project** created as part of TuteDude's assignment. The project is a simple web application that allows users to log in, register, and securely store secrets using encryption.
 
 ## Live Demo
@@ -57,9 +55,14 @@ Once all dependencies are installed, you can view the project in your browser.
 2. **View in browser**:
    Open your browser and go to `http://localhost:5002` to view the project.
 
+3. ** Demo** :
+![image](https://github.com/user-attachments/assets/db7c609e-ad6f-4ea3-9490-c08de4d90bdf)
+
+
+https://github.com/user-attachments/assets/d7b322ed-c664-464f-a3a8-186628c104c5
+
+
 ---
-3. ** Demo **:
-   
    
 ### Technologies Used
 - HTML5
