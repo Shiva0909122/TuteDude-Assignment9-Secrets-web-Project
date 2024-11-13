@@ -55,10 +55,12 @@ Once all dependencies are installed, you can view the project in your browser.
    ```
 
 2. **View in browser**:
-   Open your browser and go to `http://localhost:3000` to view the project.
+   Open your browser and go to `http://localhost:5002` to view the project.
 
 ---
-
+3. ** Demo **:
+   
+   
 ### Technologies Used
 - HTML5
 - CSS
@@ -70,15 +72,7 @@ Once all dependencies are installed, you can view the project in your browser.
 
 ### Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Please make sure to follow the coding standards and provide relevant test coverage.
-
----
-
-### License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-
+__________________________________________________________________________________________________________________________________________________________________________________________________
 
 The project file on the "Secrets" web application demonstrates several core features for secure user authentication. Here’s a summary of the components based on the code structure provided:
 
@@ -94,6 +88,9 @@ The project file on the "Secrets" web application demonstrates several core feat
 
 5. **Secrets Sharing Feature**: Registered and logged-in users can anonymously share secrets on the platform through a "Submit a Secret" feature.
 
-6. **Server and Port Configuration**: The Express.js server is set to listen on port `5001`.
+6. **Server and Port Configuration**: The Express.js server is set to listen on port `5002`.
 
 This app illustrates a fundamental approach to web security best practices, particularly through encryption, secure session handling, and user authentication.
+
+### License
+This project is open-source and available under the [MIT License](LICENSE).
